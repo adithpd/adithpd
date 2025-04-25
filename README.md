@@ -22,6 +22,7 @@ All coding projects are built from the ground up, from planning and designing al
 <img align="left" alt="React" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Vue" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="SpringBoot" width="70px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" />
+<img align="left" alt="Docker" width="70px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" />
 <img align="left" alt="Git" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
